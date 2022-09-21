@@ -23,6 +23,11 @@
 		{
 			"Name": "Landmass",
 			"Enabled": true
+		},
+		{
+			"Name": "HeroesBuilderPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/54e48b6db1fe45c6be81c063210b2f72"
 		}
 	]
 }
