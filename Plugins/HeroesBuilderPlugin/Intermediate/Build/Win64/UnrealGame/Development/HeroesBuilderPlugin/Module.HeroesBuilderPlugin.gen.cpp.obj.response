@@ -1,6 +1,6 @@
-F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Development\HeroesBuilderPlugin\Module.HeroesBuilderPlugin.gen.cpp
+E:\NYU2022\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Development\HeroesBuilderPlugin\Module.HeroesBuilderPlugin.gen.cpp
 /I .
-/I F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Source\HeroesBuilderPlugin\Private
+/I E:\NYU2022\TBD\Plugins\HeroesBuilderPlugin\Source\HeroesBuilderPlugin\Private
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -98,27 +98,27 @@ F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\Unrea
 /I Runtime\TypedElementFramework\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime
 /I Runtime\TypedElementRuntime\Public
-/I F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Inc\HeroesBuilderPlugin
-/I F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Source
-/I F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Source\HeroesBuilderPlugin\Public
+/I E:\NYU2022\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Inc\HeroesBuilderPlugin
+/I E:\NYU2022\TBD\Plugins\HeroesBuilderPlugin\Source
+/I E:\NYU2022\TBD\Plugins\HeroesBuilderPlugin\Source\HeroesBuilderPlugin\Public
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UnrealGame\Inc\ProceduralMeshComponent
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
-/I "G:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
-/I "G:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
-/I "G:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
-/I "G:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
-/I "G:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"F:\UE5Project_TBD\TBD\Intermediate\Build\Win64\TDB\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Development\HeroesBuilderPlugin\Definitions.HeroesBuilderPlugin.h"
-/Yu"F:\UE5Project_TBD\TBD\Intermediate\Build\Win64\TDB\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"F:\UE5Project_TBD\TBD\Intermediate\Build\Win64\TDB\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Development\HeroesBuilderPlugin\Module.HeroesBuilderPlugin.gen.cpp.obj"
-/sourceDependencies F:\UE5Project_TBD\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Development\HeroesBuilderPlugin\Module.HeroesBuilderPlugin.gen.cpp.json
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"E:\NYU2022\TBD\Intermediate\Build\Win64\TDB\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"E:\NYU2022\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Development\HeroesBuilderPlugin\Definitions.HeroesBuilderPlugin.h"
+/Yu"E:\NYU2022\TBD\Intermediate\Build\Win64\TDB\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\NYU2022\TBD\Intermediate\Build\Win64\TDB\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"E:\NYU2022\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Development\HeroesBuilderPlugin\Module.HeroesBuilderPlugin.gen.cpp.obj"
+/sourceDependencies E:\NYU2022\TBD\Plugins\HeroesBuilderPlugin\Intermediate\Build\Win64\UnrealGame\Development\HeroesBuilderPlugin\Module.HeroesBuilderPlugin.gen.cpp.json
 /Zc:inline
 /nologo
 /Oi
