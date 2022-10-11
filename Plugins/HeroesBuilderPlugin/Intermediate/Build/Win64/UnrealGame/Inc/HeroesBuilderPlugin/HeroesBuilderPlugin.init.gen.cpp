@@ -23,7 +23,7 @@ void EmptyLinkFunctionForGeneratedCodeHeroesBuilderPlugin_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xE0222554,
+				0x69F0C0E7,
 				0xF911362D,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -31,5 +31,5 @@ void EmptyLinkFunctionForGeneratedCodeHeroesBuilderPlugin_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_HeroesBuilderPlugin.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_HeroesBuilderPlugin(Z_Construct_UPackage__Script_HeroesBuilderPlugin, TEXT("/Script/HeroesBuilderPlugin"), Z_Registration_Info_UPackage__Script_HeroesBuilderPlugin, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xE0222554, 0xF911362D));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_HeroesBuilderPlugin(Z_Construct_UPackage__Script_HeroesBuilderPlugin, TEXT("/Script/HeroesBuilderPlugin"), Z_Registration_Info_UPackage__Script_HeroesBuilderPlugin, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x69F0C0E7, 0xF911362D));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
