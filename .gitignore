@@ -23,6 +23,9 @@
 # Any file in /RawContent dir will be managed by git lfs.
 !/RawContent/**/*
 
+# Do not ignore logo file
+!/Mergician.png
+
 # OS/platform generated files.
 
 # Windows
