@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "{AE7F78B1-45ED-EFFD-F3FA-FCAE855E4F75}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Mergician",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
